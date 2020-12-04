@@ -2,7 +2,7 @@
 
 ## Stack de technique
 
-- Backend : Java (Spring Boot) Usage d'API
+- Backend : Java (Spring Boot)
 - Frontend : JavaScript, HTML, CSS (Bootstrap)
 
 ## Modèle d'Architecture
