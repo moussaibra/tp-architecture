@@ -12,3 +12,4 @@ Enfin, démarrer le serveur avec : `node server.js`
 ## FRONTEND
 
 Lancer `/frontend/menu.html` dans votre navigateur.
+Entrer votre prenom, nom et @mail puis cliquer sur `Se connecter`
